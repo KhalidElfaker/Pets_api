@@ -1,0 +1,124 @@
+{
+  "pets": [
+    {
+      "id": "1",
+      "name": "Rex",
+      "type": "Dog",
+      "description": "A playful pup"
+    },
+    {
+      "id": "2",
+      "name": "Mittens",
+      "type": "Cat",
+      "description": "A very independent feline"
+    },
+    {
+      "id": "3",
+      "name": "Max",
+      "type": "Dog",
+      "description": "Loves to go for walks"
+    },
+    {
+      "id": "4",
+      "name": "Bella",
+      "type": "Dog",
+      "description": "Always wants to play fetch"
+    },
+    {
+      "id": "5",
+      "name": "Charlie",
+      "type": "Cat",
+      "description": "Enjoys sunbathing"
+    },
+    {
+      "id": "6",
+      "name": "Lucy",
+      "type": "Cat",
+      "description": "Has the loudest purr"
+    },
+    {
+      "id": "7",
+      "name": "Cooper",
+      "type": "Dog",
+      "description": "A faithful companion"
+    },
+    {
+      "id": "8",
+      "name": "Daisy",
+      "type": "Dog",
+      "description": "Loves to be petted"
+    },
+    {
+      "id": "9",
+      "name": "Rocky",
+      "type": "Dog",
+      "description": "Enjoys running in the park"
+    },
+    {
+      "id": "10",
+      "name": "Simba",
+      "type": "Cat",
+      "description": "Acts like a king"
+    },
+    {
+      "id": "11",
+      "name": "Milo",
+      "type": "Cat",
+      "description": "Loves to climb trees"
+    },
+    {
+      "id": "12",
+      "name": "Sadie",
+      "type": "Dog",
+      "description": "Always excited to see you"
+    },
+    {
+      "id": "13",
+      "name": "Chloe",
+      "type": "Dog",
+      "description": "Loves to cuddle"
+    },
+    {
+      "id": "14",
+      "name": "Bailey",
+      "type": "Cat",
+      "description": "A little shy at first"
+    },
+    {
+      "id": "15",
+      "name": "Lola",
+      "type": "Cat",
+      "description": "A sweet and gentle kitty"
+    },
+    {
+      "id": "16",
+      "name": "Oliver",
+      "type": "Dog",
+      "description": "A little clumsy, but lovable"
+    },
+    {
+      "id": "17",
+      "name": "Sophie",
+      "type": "Dog",
+      "description": "A happy and outgoing pup"
+    },
+    {
+      "id": "18",
+      "name": "Lily",
+      "type": "Cat",
+      "description": "Quiet and elegant"
+    },
+    {
+      "id": "19",
+      "name": "Oscar",
+      "type": "Cat",
+      "description": "Full of energy"
+    },
+    {
+      "id": "20",
+      "name": "Ruby",
+      "type": "Dog",
+      "description": "Loves to play with toys"
+    }
+  ]
+}
